@@ -4,7 +4,7 @@
 
 
 <ul>
-<li>Estou em busca da primeira oportunidade de trabalho como desenvolvedor Front-End./li>
+<li>Estou em busca da primeira oportunidade de trabalho como desenvolvedor Front-End.</li>
 <li>Fale comigo ⬇️⬇️⬇️</li>
 </ul>
 
